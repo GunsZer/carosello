@@ -41,7 +41,7 @@ const Hero: React.FC = () => {
             <Button
               href="#menu"
               variant="secondary"
-              className="!bg-white !text-red-600 !border-red-600 border px-4 py-2 rounded transition-transform duration-300 hover:scale-105 hover:!bg-white hover:!text-red-600"
+              className="!bg-white !text-[#9D231F] !border-[#9D231F] border px-4 py-2 rounded transition-transform duration-300 hover:scale-105 hover:!bg-white hover:!text-[#9D231F]"
             >
               Découvrir notre carte
             </Button>
