@@ -38,10 +38,10 @@ const Hero: React.FC = () => {
             >
               Réserver une table
             </Button>
-            <Button 
-              href="#menu" 
+            <Button
+              href="#menu"
               variant="secondary"
-              className="bg-white text-red-600 border border-red-600 px-4 py-2 rounded font-semibold shadow hover:bg-red-50 transition-colors duration-200"
+              className="!bg-white !text-red-600 !border-red-600 border px-4 py-2 rounded transition-transform duration-300 hover:scale-105 hover:!bg-white hover:!text-red-600"
             >
               Découvrir notre carte
             </Button>
