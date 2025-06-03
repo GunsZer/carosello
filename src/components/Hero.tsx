@@ -34,14 +34,14 @@ const Hero: React.FC = () => {
             <Button 
               href="#reservation" 
               variant="primary"
-              className="bg-brick text-white border-2 border-white shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all text-lg font-semibold px-8 py-4 animate-pulse hover:animate-none"
+              className="bg-brick text-white border-2 border-white shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all text-lg font-semibold px-8 py-4"
             >
               Réserver une table
             </Button>
             <Button 
               href="#menu" 
               variant="secondary"
-              className="bg-white text-brick border-2 border-white hover:bg-opacity-90 shadow-lg hover:shadow-xl transform hover:scale-105 transition-all text-lg font-medium"
+              className="bg-white text-red-600 border border-red-600 px-4 py-2 rounded font-semibold shadow hover:bg-red-50 transition-colors duration-200"
             >
               Découvrir notre carte
             </Button>
